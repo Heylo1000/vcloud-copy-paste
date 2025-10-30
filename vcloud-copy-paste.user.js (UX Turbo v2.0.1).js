@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         vcloud-copy-paste.user.js (UX Turbo v2.0.1 + Indent-Safe)
+// @name         vcloud-copy-paste.user.js (UX Turbo v2.0.1)
 // @author       adryd (+Heylo1000)
 // @namespace    https://github.com/adryd325/vcloud-copy-paste.user.js
 // @version      v2.0.1-indent
